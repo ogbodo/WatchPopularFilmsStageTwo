@@ -1,7 +1,7 @@
 <resources>
 
     <!--TODO(1) Insert and API KEY Here-->
-    <string name="api_key">326b1a390a6678b45fd1cf634a3a1f40</string>
+    <string name="api_key"></string>
 
     <string name="app_name">Watch Movies</string>
     <string name="error_msg_api">An error has occurred. Please try again.</string>
