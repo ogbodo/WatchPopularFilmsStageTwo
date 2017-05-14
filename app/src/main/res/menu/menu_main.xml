@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.izuking.udacity.android.watchmovies.MainActivity">
+    <item android:id="@+id/nav_setting"
+        android:title="@string/action_settings"
+        android:icon="@android:drawable/ic_menu_manage"
+        app:showAsAction="ifRoom">
+
+        <menu xmlns:android="http://schemas.android.com/apk/res/android" >
+            <item android:id="@+id/nav_popular"
+                android:title="@string/action_popular"
+                 />
+            <item android:id="@+id/nav_toprated"
+                android:title="@string/action_toprated"
+                 />
+            <item android:id="@+id/nav_favorite"
+                android:title="@string/action_favorite"
+                />
+        </menu>
+    </item>
+    <item android:id="@+id/nav_refresh"
+        android:title="@string/action_settings"
+        android:icon="@android:drawable/stat_notify_sync_noanim"
+        app:showAsAction="ifRoom"></item>
+</menu>

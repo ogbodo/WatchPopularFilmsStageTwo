@@ -1,0 +1,40 @@
+<resources>
+
+    <!--TODO(1) Insert and API KEY Here-->
+    <string name="api_key">326b1a390a6678b45fd1cf634a3a1f40</string>
+
+    <string name="app_name">Watch Movies</string>
+    <string name="error_msg_api">An error has occurred. Please try again.</string>
+    <string name="error_msg_database">No favorite movie added yet!</string>
+    <string name="popular">popular</string>
+    <string name="rating">RATING</string>
+    <string name="releaseDate">RELEASEDATE</string>
+    <string name="name_popular">Popular Movie</string>
+    <string name="name_top_rated">Top Rated Movie</string>
+    <string name="movie_title">Movie Title:</string>
+    <string name="user_rating">User Rating:</string>
+    <string name="released_date">Released Date:</string>
+    <string name="top_rated">top_rated</string>
+    <string name="preference">SHAREDSORTING</string>
+    <string name="sort_type">SORTINGTYPE</string>
+    <string name="title_activity_detail">Movie Detail</string>
+    <string name="title">TITLE</string>
+    <string name="movie_img">POSTERIMG</string>
+    <string name="movie_overview">OVERVIEW</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_popular">Popular</string>
+    <string name="action_toprated">Top Rated</string>
+    <string name="action_favorite">Favorites</string>
+    <string name="add_favorite">Add Favorite</string>
+    <string name="remove_favorite">Remove Favorite</string>
+    <string name="pref_favorites">FAVOURITETRAILERS</string>
+    <string name="trailer_preference">SHAREDFAVORITES</string>
+    <string name="trailer_reviews_author">REVIEWAUTHOR</string>
+    <string name="trailer_reviews_content">REVIEWCONTENT</string>
+    <string name="movie_trailer_keys">MOVIETRAILERKEYS</string>
+    <string name="trailer_poster_bytes">TRAILERPOSTERBYTE</string>
+    <string name="no_trailer">No trailer found for this movie!</string>
+    <string name="trailer_id">TRAILERID</string>
+    <string name="synopsis">Synopsis:</string>
+</resources>
